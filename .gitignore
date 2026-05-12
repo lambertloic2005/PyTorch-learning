@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+data/*
+!data/.gitkeep
+
+outputs/*
+!outputs/.gitkeep
+
+*.pt
+*.pth
+*.ckpt
